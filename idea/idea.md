@@ -6,5 +6,6 @@
 4. http://172.245.22.235:1017（不可用）
 5. http://diy-cia48621793.rhcloud.com（不可用）
 6. http://idea.lanyus.com（不可用）
-7. http://btsha.com:41017
-8. http://idea.iteblog.com/key.php
+7. http://btsha.com:41017(不可用)
+8. http://idea.iteblog.com/key.php(不可用)
+9. http://hb5.s.osidea.cc:1017
