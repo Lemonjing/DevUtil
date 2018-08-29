@@ -9,3 +9,4 @@
 7. http://btsha.com:41017(不可用)
 8. http://idea.iteblog.com/key.php(不可用)
 9. http://hb5.s.osidea.cc:1017
+10. http://xdouble.cn:8888/
